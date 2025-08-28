@@ -1,0 +1,34 @@
+Body{
+    font-size: 24px;
+}
+.green { 
+     color: green;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.pink {
+    color: pink;
+}
+        .xx-large {
+            font-size: 10px;
+        }
+        .x-large      {
+            font-size: 20px;
+        }
+        .large {
+            font-size: 30px;
+        }
+        .medium {
+            font-size: 40px
+        }
+        .smaller {
+            font-size: 50px;
+        }
+        .xx-small {
+            font-size: 60px;
+        }
+ 
